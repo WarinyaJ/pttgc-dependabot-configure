@@ -1,0 +1,1 @@
+# pttgc-dependabot-configure
