@@ -22,7 +22,7 @@
 
 <img width="478" alt="image" src="https://user-images.githubusercontent.com/46469458/191068245-16c4ad07-7ba6-4992-841e-bde25dc73e18.png">
 
-6. When go to dependabot.yml click Cancel changes
+6. When go to dependabot.yml click Cancel changes because file exist
 
 <img width="1251" alt="image" src="https://user-images.githubusercontent.com/46469458/191068488-9cf25b1c-b11c-4441-904b-8df0d5f0191a.png">
 
